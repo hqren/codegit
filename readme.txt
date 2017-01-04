@@ -4,3 +4,4 @@ bb
 cc
 dd
 error
+Creating a new branch is quick.
