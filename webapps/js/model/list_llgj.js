@@ -1,1 +1,0 @@
-$("#table-llgj").bootstrapTable({pagination:!0,sidePagination:"client",pageSize:10,columns:[{align:"center",valign:"middle"},{align:"center",valign:"middle"},{align:"center",valign:"middle"},{align:"center",valign:"middle"},{align:"center",valign:"middle"}]});
