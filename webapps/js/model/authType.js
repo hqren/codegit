@@ -1,0 +1,1 @@
+$("#bus_button").click(function(){var t=Date.parse(new Date);$.cookie("car_type",2),top.location.href="./index.html?"+t}),$("#train_button").click(function(){var t=Date.parse(new Date);$.cookie("car_type",1),top.location.href="./index.html?"+t});
