@@ -1,0 +1,1 @@
+$.cookie('SystemID', getUrlParam("SystemID"));
